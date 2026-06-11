@@ -1,0 +1,18 @@
+# Ignore tool_agent folder as requested
+tool_agent/
+
+# Ignore sensitive environment variable files
+.env
+.env.local
+greeting_agent/.env
+
+# Ignore Python caches and virtual environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Ignore local database and session files
+.adk/
+*.db
+
