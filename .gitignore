@@ -1,5 +1,4 @@
 # Ignore tool_agent folder as requested
-tool_agent/
 
 # Ignore sensitive environment variable files
 .env
